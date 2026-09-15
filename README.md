@@ -51,5 +51,5 @@ diagnostics, profitability modeling, and investment feasibility — rather than 
 it on a resume.
 
 ## Files
-- `Business_Planning_Dashboard.xlsx` — the full model
-- `Business_Planning_One_Page_Report.docx` — a one-page executive summary of findings and recommendations
+- Business Planining dashboard by Eshita Akter.xlsx — the full model
+- `Business Planning Report by Eshita Akter.docx` — a one-page executive summary of findings and recommendations
