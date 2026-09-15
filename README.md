@@ -1,5 +1,5 @@
 
-# Business-Analysis-Projects# Business Planning & MBR Dashboard (Excel)
+# Business Planning & MBR Dashboard (Excel)
 
 A formula-driven Excel model demonstrating annual budgeting, Monthly Business Review (MBR)
 reporting, cost variance analysis, profitability analysis, working-capital tracking, and
